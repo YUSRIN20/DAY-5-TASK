@@ -59,4 +59,5 @@ let resumedata = {
   cgpa: "8.0",
   languages_known: "Html,Css",
 };
+console.log(resumedata)
 // second question solution ends here -----
