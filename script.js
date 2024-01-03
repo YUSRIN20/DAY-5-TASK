@@ -48,16 +48,3 @@ keys.forEach((keyval) => {
 
 
 
-// 2.)Create your own resume data in JSON format:
-
-// second question solution starts here ==>
-let resumedata = {
-  name: "Misfer Yusrin",
-  dob: "20 - 12 - 2000",
-  dept: "Mechatronics-Engineering",
-  college: "Hindusthan College of Engineering and Technology",
-  cgpa: "8.0",
-  languages_known: "Html,Css",
-};
-console.log(resumedata)
-// second question solution ends here -----
