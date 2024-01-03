@@ -11,9 +11,8 @@ let resumedata = {
   "objective" : "Looking forward to explore the career opportunities in a,challenging environment at an established company where I,can utilize my technical knowledge skillfully and efficiently to achieve organization goal through commitment, hard work innovation and teamwork.",
    
   "ProfessionalDetails" :{
-    "Qualification":{
-      "Bachelor of Mechatronics Engineering with overall 8.0CGPA (2019-2022)",
-    }
+    "Qualification":
+      "Bachelor of Mechatronics Engineering with overall 8.0CGPA (2019-2022)"
   }
     
 }
